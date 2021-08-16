@@ -1,4 +1,4 @@
-# Dynamic_Linked_List
+# Dynamic Linked List
 
 ## Introduction
 Simple dynamic linked list data structure written in C++. 
