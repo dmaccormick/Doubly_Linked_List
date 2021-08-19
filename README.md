@@ -1,7 +1,7 @@
-# Dynamic Linked List
+# Doubly Linked List
 
 ## Introduction
-Simple dynamic linked list data structure written in C++ for a data structures course in 2016. 
+Simple doubly linked list data structure written in C++ for a data structures course in 2016. 
 
 Includes a small program that lets the user control the number of nodes in the list. There are several different process that can be performed (adding a new node, removing the max node, removing the min node, and printing the list) by commmenting/uncommenting the commands. Also, has a timer system that records and prints the execution time of the process. 
 
